@@ -1,0 +1,9 @@
+.find-friend-page {
+    display: grid;
+    grid-template-columns: auto auto;
+    gap: 10px;
+}
+
+.find-friend-card{
+    margin: 10px;
+}

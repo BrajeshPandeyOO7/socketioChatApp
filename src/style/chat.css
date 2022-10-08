@@ -1,0 +1,17 @@
+.chat-page {
+    position: absolute;
+    width: 520px;
+    height: 841px;
+    left: 0%;
+    top: 5%;
+    box-shadow: 0 10px 30px 0rgba(0,0,0,.15);
+    background-color: #fff;
+}
+.name-field {
+    display: flex;
+    align-items: center;
+    background: #58c1db;
+    /* text-align: right; */
+    padding-left: 16px;
+    padding-right: 16px;
+}

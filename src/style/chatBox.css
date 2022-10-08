@@ -1,0 +1,16 @@
+.chatBox-page {
+    position: absolute;
+    width: 520px;
+    box-shadow: 0 10px 30px 0rgba(0,0,0,.15);
+    background-color: #e0e6e8;
+}
+
+.chat-box-name-field {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #58c1db;
+    /* text-align: right; */
+    padding-left: 16px;
+    padding-right: 16px;
+}
